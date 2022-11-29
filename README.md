@@ -1,3 +1,25 @@
+<h1 align="center"> React API </h >
+<br />
+<br />
+
+# <h3> Stronę można zobaczyć pod adresem: https://react-api-mui.netlify.app/<h3>
+<br />
+<h2 align="left"> Technologie: </h2>
+* React
+<br />
+* Material UI
+<br />
+<br />
+
+Skorzystano z darmowego API do pobierania danych: https://jsonplaceholder.typicode.com/users
+<br />
+<br />
+![1](https://user-images.githubusercontent.com/105555319/204673953-a604cb91-78b5-40af-84e5-4b1626a81183.jpg)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
